@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//School Lunch Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:6ad72f53-61ab-4a08-b0b4-0d9769374fa1@schoollunch
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Lunch: Cheese Pizza with Green Beans
+DESCRIPTION:Breakfast: Mini-Cinnamon Rolls or Yogurt Cup & Crackers
+END:VEVENT
+BEGIN:VEVENT
+UID:fdcba9de-3398-40aa-a79e-5778b18f3642@schoollunch
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Lunch: Chicken & Waffles
+DESCRIPTION:Breakfast: Breakfast Scrambler or Mini Pancakes
+END:VEVENT
+BEGIN:VEVENT
+UID:5a360de9-a133-4861-aac7-d08c0177fc0d@schoollunch
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:Lunch: Teriyaki Chicken, Fried Rice & Egg Roll
+DESCRIPTION:Breakfast: Breakfast Burrito or Banana Bread
+END:VEVENT
+BEGIN:VEVENT
+UID:558c7c97-2e3e-455d-993b-5b38ca44487f@schoollunch
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:Lunch: Sloppy Joe with Roasted Sweet Potato
+DESCRIPTION:Breakfast: Egg & Cheese Croissant or Cereal
+END:VEVENT
+BEGIN:VEVENT
+UID:4c41bfc4-635b-42e3-b042-7a74dd8ce904@schoollunch
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Lunch: Fish Sticks & Roll with Tater Tots
+DESCRIPTION:Breakfast: Bagel w/ Cream Cheese or Muffin
+END:VEVENT
+BEGIN:VEVENT
+UID:a596bb9e-bfb0-4902-9bd6-8293fd6805fb@schoollunch
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Lunch: Mac & Cheese with Bethel Baked Beans
+DESCRIPTION:Breakfast: Breakfast Pocket or Pumpkin Bread
+END:VEVENT
+BEGIN:VEVENT
+UID:0f5b69d5-23ab-4a76-a978-827a002705ae@schoollunch
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Lunch: Frito Walking Taco, Black Bean & Corn Salsa
+DESCRIPTION:Breakfast: Sausage Bagel Sandwich or Cereal
+END:VEVENT
+BEGIN:VEVENT
+UID:7844a943-ceed-4edf-b012-12518fcec840@schoollunch
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Lunch: Orange Chicken with Fried Rice
+DESCRIPTION:Breakfast: Cinnamon Roll or Peach Parfait
+END:VEVENT
+BEGIN:VEVENT
+UID:712b5238-b015-47ae-b691-0542e3d231c6@schoollunch
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Lunch: Personal Pepperoni Pizza with Corn
+DESCRIPTION:Breakfast: Bagel-Pull-Apart or Yogurt Cup & Crackers
+END:VEVENT
+BEGIN:VEVENT
+UID:8cae30a4-98ca-44de-a734-5723068652bc@schoollunch
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Lunch: Beef Ravioli with Breadsticks
+DESCRIPTION:Breakfast: Combo Bar or Mini Pop Pancakes
+END:VEVENT
+BEGIN:VEVENT
+UID:0355b86b-7812-42bd-a4d1-e23186197f18@schoollunch
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Lunch: Chicken Nuggets with Onion Rings
+DESCRIPTION:Breakfast: Breakfast Pizza or Banana Bread
+END:VEVENT
+BEGIN:VEVENT
+UID:5b94c20a-ea42-4513-ac79-8024673dcb90@schoollunch
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Lunch: Turkey Gravy and Mashed Potatoes with Fresh Watermelon
+DESCRIPTION:Breakfast: Egg, Ham & Cheese Sandwich or Cereal
+END:VEVENT
+BEGIN:VEVENT
+UID:a0499efc-0428-4139-a3b1-6ad172dfe796@schoollunch
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:2026
