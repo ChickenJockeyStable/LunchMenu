@@ -1,0 +1,144 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//School Lunch Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:6682d934-99a2-40a7-adf3-3891f04176c1@schoollunch
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Lunch: Cheeseburger with Waffle Fries
+DESCRIPTION:Breakfast: Cinnamon Breakfast Square or Yogurt Cup & Granola
+END:VEVENT
+BEGIN:VEVENT
+UID:7015679f-f328-45c9-bd10-fab29c01916c@schoollunch
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Lunch: Orange Chicken with Fried Rice
+DESCRIPTION:Breakfast: Bagel w/ Cream Cheese or Muffin
+END:VEVENT
+BEGIN:VEVENT
+UID:dbdff5f7-ff28-43f0-b53c-be1c4ae73815@schoollunch
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Lunch: Mac & Cheese with Bethel Baked Beans
+DESCRIPTION:Breakfast: Breakfast Pocket or Pumpkin Bread
+END:VEVENT
+BEGIN:VEVENT
+UID:ef914a0b-cf52-4ea8-9e95-5e3e0e2c93e0@schoollunch
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Lunch: Frito Walking Taco, Black Bean & Corn Salsa
+DESCRIPTION:Breakfast: Sausage Bagel Sandwich or Cereal
+END:VEVENT
+BEGIN:VEVENT
+UID:c9a91323-b0ac-40af-8d51-972d40cf594b@schoollunch
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Lunch: Fish Sticks & Roll with Tater Tots
+DESCRIPTION:Breakfast: Cinnamon Roll or Peach Parfait
+END:VEVENT
+BEGIN:VEVENT
+UID:d9e6b382-454f-434f-96ff-ded7a7a3cdcc@schoollunch
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Lunch: Personal Pepperoni Pizza with Corn
+DESCRIPTION:Breakfast: Bagel-Pull-Apart or Yogurt Cup & Crackers
+END:VEVENT
+BEGIN:VEVENT
+UID:6153adb9-e9c7-4a00-8f10-e55a4496b1e1@schoollunch
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Lunch: Cheesy Ravioli with Breadsticks
+DESCRIPTION:Breakfast: Combo Bar or Mini Pop Pancakes
+END:VEVENT
+BEGIN:VEVENT
+UID:467aaa4b-34a8-44da-aba6-a3d6d2ff056c@schoollunch
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Lunch: Chicken Nuggets with Onion Rings
+DESCRIPTION:Breakfast: Breakfast Pizza or Banana Bread
+END:VEVENT
+BEGIN:VEVENT
+UID:8baf6ead-b9fc-494e-bcd3-0f507352479c@schoollunch
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Lunch: Turkey & Gravy with Mashed Potatoes
+DESCRIPTION:Breakfast: Pumpkin Scone or Cereal\nNote: Monthly Birthday Celebration - Rice Krispy treat
+END:VEVENT
+BEGIN:VEVENT
+UID:ede3edb2-1787-428d-a6a4-06c131afe129@schoollunch
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:1/2 Day Sack Lunch: Sunbutter Sandwich with Fritos
+DESCRIPTION:Breakfast: Mini Waffles or Yogurt Cup & Granola
+END:VEVENT
+BEGIN:VEVENT
+UID:001f967f-5dc5-4761-80f0-0645d193bc22@schoollunch
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Lunch: French Toast Sticks & Sausage with Hash browns
+DESCRIPTION:Breakfast: Pancake on a Stick or Muffin
+END:VEVENT
+BEGIN:VEVENT
+UID:7d85a589-e2ea-488e-bc98-a886f183ca18@schoollunch
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Lunch: Fajita Nachos with Refried Beans
+DESCRIPTION:Breakfast: Bagel w/ Cream Cheese or Pumpkin Bread
+END:VEVENT
+BEGIN:VEVENT
+UID:1b974799-9f5d-44e8-81e1-7a301e496ddc@schoollunch
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Spooky Lunch: Batty Chicken Nuggets with Smiley Fries
+DESCRIPTION:Breakfast: Sausage Biscuit Sandwich or Cereal
+END:VEVENT
+BEGIN:VEVENT
+UID:6c39d1e5-2923-4c83-b16b-968da81de5f9@schoollunch
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Lunch: Chicken Sandwich with Corn
+DESCRIPTION:Breakfast: Banana Choco Chip Bread or Peach Parfait
+END:VEVENT
+BEGIN:VEVENT
+UID:69703f80-0131-4143-b2d3-61deb7301185@schoollunch
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:1/2 Day Sack Lunch: Ham & Cheese Sandwich with Carrots & Tomatoes
+DESCRIPTION:Breakfast: Mini-Cinnamon Rolls or Yogurt Cup & Crackers
+END:VEVENT
+BEGIN:VEVENT
+UID:8fabd813-18fc-4dfa-8b3f-908c0b05b6cf@schoollunch
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:1/2 Day Sack Lunch: Sunbutter Sandwich with Bunny Grahams
+DESCRIPTION:Breakfast: Breakfast Scrambler or Mini Pancakes
+END:VEVENT
+BEGIN:VEVENT
+UID:79dc0188-4f05-4bcc-a422-15db6985340e@schoollunch
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:1/2 Day Sack Lunch: Pepperoni Pizza Pocket with Grapes
+DESCRIPTION:Breakfast: Breakfast Burrito or Banana Bread
+END:VEVENT
+BEGIN:VEVENT
+UID:6c086c4a-8309-4095-a023-0af0a47baa16@schoollunch
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:1/2 Day Sack Lunch: Corn Dog with fresh apples and radish slices
+DESCRIPTION:Breakfast: Egg & Cheese Croissant or Cereal
+END:VEVENT
+BEGIN:VEVENT
+UID:062feabe-42d1-4e8a-832f-d29b5c76c3ba@schoollunch
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:1/2 Day Sack Lunch: Grilled Cheese Sandwich with Jicama sticks
+DESCRIPTION:Breakfast: Bethel Special Waffle or Blueberry Parfait
+END:VEVENT
+BEGIN:VEVENT
+UID:b1bc51d9-6f4f-494d-bb8f-a9bbdb1ad9f2@schoollunch
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:No School
+END:VEVENT
+END:VCALENDAR
